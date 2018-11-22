@@ -1,4 +1,4 @@
-# Trabalho Aula 6
+# Trabalho Aula 4
 
 O objetivo do exercício é gerenciar os livros de uma biblioteca. Para tanto, as seguintes informações são
 armazenadas: o ISBN do livro (chave primária), o título do livro, o autor, o ano e outras informações que você
